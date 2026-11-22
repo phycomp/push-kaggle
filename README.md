@@ -26,4 +26,3 @@ Trigger phrases: "kaggle", "kaggle dataset", "kaggle publish", "kaggle notebook"
 ## License
 
 MIT
-EOF

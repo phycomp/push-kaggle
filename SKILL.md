@@ -79,4 +79,3 @@ kaggle datasets files <id>   # 核對檔案清單
 
 - `push-streamlit` skill — 完整推送流程（含 GitHub/Kaggle/HF）
 - `scripts/push_kaggle_dataset.sh` — Kaggle 發布腳本
-EOF
